@@ -6,3 +6,4 @@ venv/
 *.git
 node_modules/
 BRAND IMAGES/
+extracted_details.csv
