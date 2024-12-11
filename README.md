@@ -1,1 +1,1 @@
-# BrandDetection
+# Brand Detection Model
